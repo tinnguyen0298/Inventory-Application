@@ -1,0 +1,7 @@
+This project is created for Computer Science I course at Pikes Peak Community College.
+Instructor: Chander Thangavelu
+Team members:
+1. Dave
+2. Carl
+3. Lisa 
+4. Tin

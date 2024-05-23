@@ -1,0 +1,52 @@
+﻿H,American Spas,AM336,Siesta,1381,7,False,20
+H,American Spas,AM103,Ozonator,1531,7,True,30
+H,American Spas,AM174,Futura,7263,7,False,30
+H,American Spas,AM171,Malibu,2894,7,False,10
+H,American Spas,AM674,Revive,8506,7,False,20
+H,AquaLife,AQ527,Harmony,8484,6,True,50
+H,AquaLife,AQ407,Narada,1849,6,False,50
+H,AquaLife,AQ114,Niagara,6805,6,False,20
+H,AquaLife,AQ735,Venus,9017,6,True,50
+H,AquaLife,AQ118,Pearl,2592,6,True,30
+H,Intex,IN589,Oceania,2043,4,True,20
+H,Intex,IN226,Daydream,9678,4,True,30
+H,Intex,IN283,Pegasus,7191,4,True,20
+H,Intex,IN922,Alpine,4176,4,False,40
+H,Intex,IN971,Bueno,9449,4,False,20
+H,Lifesmart,LI824,Estrella,1317,5,True,40
+H,Lifesmart,LI469,Coronado,2274,5,False,50
+H,Lifesmart,LI104,Cascade,7498,5,True,40
+H,Lifesmart,LI625,Symphony,9960,5,True,40
+H,Lifesmart,LI722,Gemstone,6120,5,True,10
+H,Lifesmart,LI250,Montego,2582,5,True,50
+P,Brunswick,BR499,Aspen,5035,6,False,Red
+P,Brunswick,BR585,Allenton,8389,6,True,Blue
+P,Brunswick,BR916,Botanic,4886,6,False,Blue
+P,Brunswick,BR111,Glenwood,8494,7,False,Red
+P,Brunswick,BR751,Sanibel,1224,6,False,Blue
+P,Brunswick,BR942,Canton,3016,8,True,Red
+P,Brunswick,BR675,Centenial,9330,8,False,Blue
+P,Brunswick,BR613,Birmingham,6775,6,False,Black
+P,Diamond Billiards,DI116,Golden Oak,2543,6,True,Black
+P,Diamond Billiards,DI638,Maple,5815,9,True,Red
+P,Diamond Billiards,DI389,Oak,2455,6,False,Black
+P,Diamond Billiards,DI820,Rosewood,4124,6,True,White
+P,Diamond Billiards,DI247,Walnut,7088,7,False,Red
+P,Diamond Billiards,DI594,DymondWood,2162,8,False,Blue
+P,Diamond Billiards,DI792,EastPoint,4398,7,True,Black
+P,Diamond Billiards,DI595,DymaLux,3676,6,False,White
+P,Olhauser Billiards,OL763,Americana,9008,7,False,Blue
+P,Olhauser Billiards,OL383,Augusta,7953,7,False,White
+P,Olhauser Billiards,OL397,Belle Meade,9956,9,False,Blue
+P,Olhauser Billiards,OL574,Belmont,5080,7,False,Black
+P,Olhauser Billiards,OL704,BlackHawk,6512,7,True,Red
+P,Olhauser Billiards,OL844,Sheraton,1675,6,False,Red
+P,Olhauser Billiards,OL342,Hampton,6636,8,False,Blue
+P,Presidental Billiards,PR808,Black Diamond,4346,8,False,Red
+P,Presidental Billiards,PR160,Reagan,8830,8,True,Black
+P,Presidental Billiards,PR668,Tyler,8349,9,False,Blue
+P,Presidental Billiards,PR549,Silverton,3264,7,False,Red
+P,Presidental Billiards,PR485,Vienna,3132,9,True,Red
+P,Presidental Billiards,PR111,Madison,6583,9,False,Red
+P,Presidental Billiards,PR611,Monroe,4878,6,True,Blue
+P,Presidental Billiards,PR391,Kariba,3876,9,False,White
